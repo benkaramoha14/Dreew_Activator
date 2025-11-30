@@ -1,0 +1,67 @@
+# -------------------------------
+# Archivos y carpetas de Python
+# -------------------------------
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.egg
+*.egg-info/
+dist/
+build/
+*.spec
+
+# -------------------------------
+# Archivos binarios / ejecutables
+# -------------------------------
+*.exe
+*.dll
+*.so
+*.dylib
+
+# -------------------------------
+# Archivos de Windows
+# -------------------------------
+Thumbs.db
+Desktop.ini
+*.log
+*.tmp
+*.bak
+
+# -------------------------------
+# Archivos de macOS
+# -------------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# -------------------------------
+# Archivos y carpetas de Linux
+# -------------------------------
+*~
+.nfs*
+
+# -------------------------------
+# Carpetas y archivos de IDEs
+# -------------------------------
+.vscode/
+.idea/
+*.code-workspace
+
+# -------------------------------
+# Archivos de configuración locales
+# -------------------------------
+.env
+*.env
+
+# -------------------------------
+# Logs, cachés y bases de datos temporales
+# -------------------------------
+*.log
+*.cache
+*.sqlite3
+
+# -------------------------------
+# Git
+# -------------------------------
+.gitignore
